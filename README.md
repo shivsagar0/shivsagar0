@@ -29,7 +29,7 @@
 
 
 
- [![LinkedIn: shiv](https://img.shields.io/badge/-shiv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiwani/)](  https://www.linkedin.com/in/shiv-sagar-15b315134/)
+ [![LinkedIn: shiv](https://img.shields.io/badge/-shiv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiv/)](  https://www.linkedin.com/in/shiv-sagar-15b315134/)
 [![GitHub: shiv](https://img.shields.io/github/followers/shivsagar0?label=follow&style=social)](https://github.com/shivsagar0)
 
 
