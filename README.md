@@ -29,8 +29,8 @@
 
 
 
- [![LinkedIn: shiv](https://img.shields.io/badge/-shiwani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiwani/)](  https://www.linkedin.com/in/shiv-sagar-15b315134/)
-[![GitHub: shiwani](https://img.shields.io/github/followers/webdesignershi?label=follow&style=social)](https://github.com/webdesignershi)
+ [![LinkedIn: shiv](https://img.shields.io/badge/-shiv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiwani/)](  https://www.linkedin.com/in/shiv-sagar-15b315134/)
+[![GitHub: shiv](https://img.shields.io/github/followers/webdesignershi?label=follow&style=social)](https://github.com/webdesignershi)
 
 
 ### Languages and Tools:
